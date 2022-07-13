@@ -1,10 +1,8 @@
 ### Hi there, I'm Judith <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" />
 
-- 🌱 I’m currently working on uml designer platform based on NLP (http://umldesigner.app)
+- 🌱 I’m currently working on E-AGRICULTER projects
 - 👯 I’m looking to collaborate with geeky minds
-- 🥅 Goals: I just want to sleep less stupid than I woke up
-<!--- 🥅 2021 Goals: Lunch my first IoT start-up-->
-- 📫 How to reach me: [Portfolio](http://genereux-dev.me/)
+<!-- 📫 How to reach me: [Portfolio](http://your_portfolio)-->
 
 ---
 
